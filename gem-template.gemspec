@@ -3,7 +3,7 @@ require "gem-template/version"
 
 Gem::Specification.new do |gem|
   gem.name = "gem-template"
-  gem.version = Bitbucket::Tracker::VERSION
+  gem.version = GemTemplate::VERSION
   gem.summary = "Ruby's GEM template."
   gem.description = "Ruby's GEM template."
   gem.license = "MIT"
