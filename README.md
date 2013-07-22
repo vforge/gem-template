@@ -1,4 +1,3 @@
-gem-template
-============
+## gem-template [![Build Status](https://travis-ci.org/vforge/gem-template.png)](https://travis-ci.org/vforge/gem-template)
 
-Ruby very basic gem template.
+Ruby's gem template.
